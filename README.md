@@ -9,8 +9,6 @@
 ![Screenshot (707)](https://github.com/githubbid/Data-Analyst-Hotel-Booking-/assets/98523143/29d6fc8e-8de5-4488-a143-30407a78a7e8)
 
 
-
-
 ![Screenshot (708)](https://github.com/githubbid/Data-Analyst-Hotel-Booking-/assets/98523143/9dd609a8-d224-40c0-a6d7-424f1a203539)
 
 
